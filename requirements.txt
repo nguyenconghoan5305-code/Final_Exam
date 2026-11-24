@@ -1,0 +1,10 @@
+# Recommended interpreter: CPython 3.11 on Windows x64.
+# Exact direct dependencies; refresh and test pins together before later stages.
+numpy==2.1.3
+pandas==2.2.3
+polars==1.35.2
+pyarrow==18.1.0
+pyspark==3.5.7
+scikit-learn==1.6.1
+requests==2.32.3
+pytest==8.3.4
